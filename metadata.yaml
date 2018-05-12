@@ -1,0 +1,31 @@
+_repo: The-Red-Room_23218
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Wells, H. G. (Herbert George)
+    alias: Wells, Herbert George
+    birthdate: 1866
+    deathdate: 1946
+    gutenberg_agent_id: '30'
+    url: http://www.gutenberg.org/2009/agents/30
+    wikipedia: http://en.wikipedia.org/wiki/H._G._Wells
+description: Best known as a science fiction writer, H.G. Wells also dabbled in horror
+  and supernatural writing. "The Red Room" is a taut psychological thriller that showcases
+  Wells' mastery of these genres. Get ready to sleep with the lights on after you
+  finish this short spine-tingling tale.
+gutenberg_issued: '2007-10-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23218'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Short stories'
+title: The Red Room
+url: http://www.gutenberg.org/ebooks/23218
